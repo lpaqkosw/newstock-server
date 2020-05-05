@@ -1,5 +1,8 @@
 # newstock-server
+2019.11
+
 Python Flask backend for <a href='https://github.com/littlejkim/newstock'>newstock</a>
+
 
 ## Objective
 * To see stock data while reading news articles conveniently
