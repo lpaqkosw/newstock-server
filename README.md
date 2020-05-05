@@ -1,5 +1,3 @@
-Main <a href='https://github.com/littlejkim/newstock'>newstock</a>
-
 # newstock-server
 Python Flask backend for <a href='https://github.com/littlejkim/newstock'>newstock</a>
 
