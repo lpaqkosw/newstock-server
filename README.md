@@ -2,6 +2,7 @@
 2019.11
 
 Python Flask backend for <a href='https://github.com/littlejkim/newstock'>newstock</a>
+<br>
 Worked with one other person.
 
 ## Objective
