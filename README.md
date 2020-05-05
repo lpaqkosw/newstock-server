@@ -3,7 +3,7 @@
 
 Python Flask backend for <a href='https://github.com/littlejkim/newstock'>newstock</a>
 <br>
-Worked with <a href='https://github.com/littlejkim/'>littlejkim</a>.
+
 
 ## Objective
 * To see stock data while reading news articles conveniently
