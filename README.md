@@ -9,7 +9,8 @@ Python Flask backend for <a href='https://github.com/littlejkim/newstock'>newsto
 
 ## Tools & Frameworks used
 * Flask
-* Chrome
+* Python libraries(Pandas, BeautifulSoup,etc)
+* Chrome (Javascript)
 
 ## Features
 ### 1.Display stockdata on dragging(selecting) company name from a news article
