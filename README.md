@@ -20,12 +20,7 @@ Python Flask backend for <a href='https://github.com/littlejkim/newstock'>newsto
 ### 1.Display stock data on dragging(selecting) company name from a news article
 <img src='https://github.com/lpaqkosw/readmeImages/blob/master/newstock/newstock.png' height='450' width='800'></img>
 <br><br><br><br><br><br><br><br>
-## Difficulties I have faced
-* Unfamiliar environment (Chrome Browser, AWS)
-* Learning new libraries (pandas)
-* Dealing with CORS
-* Coding using vim inside aws ec2 instance
-<br><br><br><br>
+
 ## Future plans
 * <s>Realtime stockdata using openAPI</s> (not realistic)
 <br><br><br><br>
