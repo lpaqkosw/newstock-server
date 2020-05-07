@@ -7,9 +7,9 @@ Python Flask backend for <a href='https://github.com/littlejkim/newstock'>newsto
 
 ## Objective
 * To see stock data while reading news articles conveniently
-* Try out aws
-* Try developing chrome extension apps
-* Try collaborating
+* Use aws
+* develop a chrome extension apps
+
 <br><br><br><br>
 ## Tools & Frameworks used
 * Flask
