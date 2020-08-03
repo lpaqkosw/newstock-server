@@ -17,6 +17,6 @@ Python Flask backend for <a href='https://github.com/littlejkim/newstock'>newsto
 <br><br><br><br><br><br><br><br>
 
 ## Future plans
-* <s>Realtime stockdata using openAPI</s> (not realistic)
+* Realtime stockdata using openAPI
 <br><br><br><br>
-# Thank you
+
