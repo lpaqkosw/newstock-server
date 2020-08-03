@@ -4,17 +4,12 @@
 Python Flask backend for <a href='https://github.com/littlejkim/newstock'>newstock</a>
 <br>
 
-
-## Objective
-* To see stock data while reading news articles conveniently
-* Use aws
-* Develop a chrome extension apps
-
 <br><br><br><br>
 ## Tools & Frameworks used
 * Flask
-* Python libraries(Pandas, BeautifulSoup,etc)
-* Chrome (Javascript)
+* Python
+* Chrome
+* AWS
 <br><br><br><br>
 ## Features
 ### 1.Display stock data on dragging(selecting) company name from a news article
